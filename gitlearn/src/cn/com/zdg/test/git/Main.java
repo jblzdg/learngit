@@ -23,7 +23,7 @@ public class Main {
 	 * @throws 
 	 */
 	public static void main(String[] args) {
-		System.out.println("init construct!!!");
+		System.out.println("init construct!!! OK xyz");
 
 	}
 
